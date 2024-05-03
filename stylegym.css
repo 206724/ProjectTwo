@@ -4,11 +4,16 @@
 .container{
     width: px;
     min-height: 100vh;
-    background: #5c539d;
+    /* background: #5c539d; */
 }
 
-.container h2{
-    color: #fff;
+body{
+    background-image: url(gym.jpg);
+    background-position: center;
+    background-size: auto;
+}
+    .container h2{
+        color: #fff;
     font-size: 32px;
     padding: 50px 0;
     text-align: center;

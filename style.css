@@ -66,4 +66,19 @@ a,button {
     background-position: center;
  }
 
+ .title{
+    position:absolute;
+    top:47%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+ .title h1{
+    color:#1307c4; 
+    font-size: 70px;
+ }
+ .title:hover
+ {
+    background-color: hsla(192, 83%, 53%, 0.8);
+ }
+
  
